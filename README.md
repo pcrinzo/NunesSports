@@ -35,10 +35,10 @@ Before you begin, ensure you have met the following requirements:
     - Create a new PostgreSQL database for the project with the following columns:
 
         - `id` (Product ID)
-        - `code` (Product Code)
-        - `name` (Product Name)
-        - `description` (Product Description)
-        - `price` (Product Price)
+        - `codigo` (Product Code)
+        - `nome` (Product Name)
+        - `descricao` (Product Description)
+        - `preco` (Product Price)
 
         You can do this using a PostgreSQL client or command line:
 
