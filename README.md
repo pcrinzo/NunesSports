@@ -90,7 +90,7 @@ Future implementations in V2:
     - Simple HTML templates for displaying and interacting with the product data.
     - Basic styling with CSS.
     - JavaScript for asynchronous communication with the backend.
-    - Repository:  
+    - Repository:  https://github.com/pcrinzo/nunessportsV2
 
 ## Contributing
 
